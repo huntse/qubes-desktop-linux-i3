@@ -21,3 +21,4 @@ pcre-devel
 perl-Data-Dumper-Names
 gcc
 rpmdevtools
+xorg-x11-drv-dummy
